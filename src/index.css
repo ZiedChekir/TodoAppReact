@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.addProject{
+  text-align: center;
+ width: 50%;
+ margin: 5em auto 0 auto;
+}
+.input-todo{
+width: 70%;
+margin: 0 auto;
+}
+.todo-list{
+   width: 50%;
+ margin: 1em auto;
+}
+hr{
+  border-width: 3px;
+}
